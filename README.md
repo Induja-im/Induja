@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect with Me  
-www.linkedin.com/in/indujam
+ <small>www.linkedin.com/in/indujam<small>
 
 
 
