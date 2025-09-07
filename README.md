@@ -3,11 +3,11 @@
 💻 Aspiring Data Engineer | Cloud & Data Enthusiast  
 ---
 ## 🧠 What I Do  
-- 🚀 Design and automate end-to-end **data pipelines**  
-- 📊 Real-time analytics and reporting with **AWS & SQL**  
-- ⚙️ Data transformation and orchestration using **Airflow & Python**  
-- 📈 Build dashboards with ** Power BI**  
-- 🔥 Work with Big Data tools like **Spark,Databricks**  
+🚀 Design and automate end-to-end **data pipelines**  
+📊 Real-time analytics and reporting with **AWS & SQL**  
+⚙️ Data transformation and orchestration using **Airflow & Python**  
+📈 Build dashboards with ** Power BI**  
+🔥 Work with Big Data tools like **Spark,Databricks**  
 
 ---
 
