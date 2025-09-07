@@ -13,12 +13,12 @@
 
 ## 🛠️ Tech Stack  
 
-**Programming & Query Languages**: SQL, T-SQL, Python  
-**Database Management**: SQL Server, MySQL, SQL Server Management Studio (SSMS)  
-**Development Tools & Version Control**: Visual Studio, GitHub, Jupyter Notebook  
-**Cloud Platforms & Big Data Tools**: Amazon Web Services (AWS – EC2, S3, RDS, Lambda), Databricks  
-**Data Engineering & Processing**: PySpark, Pandas, NumPy, Matplotlib  
-**Data Visualization & Reporting**: Power BI   
+*🖥️ **Programming & Query Languages**: SQL, T-SQL, Python  
+- 🗄️ **Database Management**: SQL Server, MySQL, SQL Server Management Studio (SSMS)  
+- 💻 **Development Tools & Version Control**: Visual Studio, GitHub, Jupyter Notebook  
+- ☁️ **Cloud Platforms & Big Data Tools**: AWS (EC2, S3, RDS, Lambda), Databricks  
+- ⚙️ **Data Engineering & Processing**: PySpark, Pandas, NumPy, Matplotlib  
+- 📊 **Data Visualization & Reporting**: Power BI    
 ---
 
 ## 📚 Certifications  
