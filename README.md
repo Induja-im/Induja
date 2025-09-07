@@ -1,31 +1,36 @@
-# Hi, I'm Induja 👋   
-🎓 Master's in Computer Science 
-💻 Aspiring Data Engineer | Cloud & Data Enthusiast  
+# Hi, I'm Induja 👋  
+🎓 <small>Master's in Computer Science</small>  
+💻 <small>Aspiring Data Engineer | Cloud & Data Enthusiast</small>  
+
 ---
+
 ## 🧠 What I Do  
-🚀 Design and automate end-to-end **data pipelines**  
-📊 Real-time analytics and reporting with **AWS & SQL**  
-⚙️ Data transformation and orchestration using **Airflow & Python**  
-📈 Build dashboards with ** Power BI**  
-🔥 Work with Big Data tools like **Spark,Databricks**  
+<small>🚀 Design and automate end-to-end data pipelines</small>  
+<small>📊 Real-time analytics and reporting with AWS & SQL</small>  
+<small>⚙️ Data transformation and orchestration using Airflow & Python</small>  
+<small>📈 Build dashboards with Power BI</small>  
+<small>🔥 Work with Big Data tools like Spark, Databricks</small>  
 
 ---
-## 🛠️ Skills  
 
-🖥️ *Programming & Query Languages*: SQL, T-SQL, Python  
-🗄️ *Database Management*: SQL Server, MySQL, SQL Server Management Studio (SSMS)  
-💻 *Development Tools & Version Control*: Visual Studio, GitHub, Jupyter Notebook  
-☁️ *Cloud Platforms & Big Data Tools*: AWS (EC2, S3, RDS, Lambda), Databricks  
-⚙️ *Data Engineering & Processing*: PySpark, Pandas, NumPy, Matplotlib  
-📊 *Data Visualization & Reporting*: Power BI  
+## 🛠️ Skills  
+<small>🖥️ Programming & Query Languages: SQL, T-SQL, Python</small>  
+<small>🗄️ Database Management: SQL Server, MySQL, SQL Server Management Studio (SSMS)</small>  
+<small>💻 Development Tools & Version Control: Visual Studio, GitHub, Jupyter Notebook</small>  
+<small>☁️ Cloud Platforms & Big Data Tools: AWS (EC2, S3, RDS, Lambda), Databricks</small>  
+<small>⚙️ Data Engineering & Processing: PySpark, Pandas, NumPy, Matplotlib</small>  
+<small>📊 Data Visualization & Reporting: Power BI</small>  
 
 ---
 
 ## 📚 Certifications  
+<small>🎓 AWS Data Engineering Course</small>  
+<small>🎓 Databricks Accredited: Databricks Fundamentals</small>  
+<small>🎓 Databricks Gen AI Fundamentals</small>  
 
-🎓 *AWS Data Engineering Course*  
-🎓 *Databricks Accredited: Databricks Fundamentals*
-🎓 *Databricks Gen AI Fundamentals*
+---
+
 ## 📫 Connect with Me  
+
 
 
