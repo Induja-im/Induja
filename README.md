@@ -1,6 +1,6 @@
 # Hi, I'm Induja 👋  
 🎓 <small>Master's in Computer Science</small>  
-💻 <small>Aspiring Data Engineer | Cloud & Data Enthusiast</small>  
+💻 <small>Aspiring Data Engineer | Cloud & Data Enthusiast | Data Analyst</small>  
 
 ---
 
